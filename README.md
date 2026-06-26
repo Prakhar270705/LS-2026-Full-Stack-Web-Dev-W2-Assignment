@@ -1,5 +1,5 @@
 # LS-2026-Full-Stack-Web-Dev-W2-Assignment
-# Food Ordering Hub
+## Food Ordering Hub
 
 A mini food ordering app made with React + Vite for my web dev assignment.
 
