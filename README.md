@@ -1,0 +1,1 @@
+# LS-2026-Full-Stack-Web-Dev-W2-Assignment
